@@ -3,7 +3,7 @@ Simple discord bot with Premium Features, Forked.
 This project originaly forked from [SudhanPlayz](https://github.com/SudhanPlayz/Discord-MusicBot)  
 
 ## Installation
-Before installing programs, make sure u have a Discord bot Token and put it on .env files  
+Before installing programs, make sure u have a *Discord bot Token* and put it on *.env* files  
 Use the package manager NPM to install.
 
 ```javascript
