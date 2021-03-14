@@ -5,7 +5,7 @@ module.exports = {
   info: {
     name: "loop",
     description: "Toggle music loop",
-    usage: "loop",
+    usage: "[loop]",
     aliases: ["l"],
   },
 

@@ -21,11 +21,6 @@
     "PREFIX": {
       "description": "The prfix you want to use with the bot.",
       "value": "!"
-    },
-    "SOUNDCLOUD_CLIENT_ID": {
-      "description": "The client id of soundcloud.",
-      "value": "",
-      "required": "false"
     }
   }  
 }
