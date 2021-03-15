@@ -4,6 +4,8 @@ This project originaly forked from [SudhanPlayz](https://github.com/SudhanPlayz/
 
 ## Installation
 - Before installing programs, make sure u have a **Discord bot Token** and put it on **.env** files  
+> PREFIX="$"  
+> TOKEN="YOUR_BOT_TOKEN_HERE"
 - Use the package manager NPM to install.
 
 ```javascript
