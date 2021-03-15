@@ -1,5 +1,5 @@
 # R45-Discord-Bot
-Simple discord bot with Premium Features, Forked.  
+Simple discord music bot with Premium Features, Forked.  
 This project originaly forked from [SudhanPlayz](https://github.com/SudhanPlayz/Discord-MusicBot)  
 
 ## Installation
